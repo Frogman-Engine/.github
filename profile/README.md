@@ -7,7 +7,8 @@
 Copyright © from 2022-present, UNKNOWN STRYKER. All Rights Reserved.  
 Frogman Engine is licensed under the Apache License, version 2.0.  
 This project is under development and may contain some bugs and issues.
-<img width="833" height="835" alt="Frogman Engine Installer Transparent" src="https://github.com/user-attachments/assets/c71c881a-13e2-4566-b7be-f0a722d29dc6" />
+<img width="1920" height="1080" alt="FE" src="https://github.com/user-attachments/assets/4cde550f-1900-4a83-bc8f-c6f3f002d47c" />
+
 
 # Frogman Engine Website (incomplete)
 Currently, programming convention is only available.  
