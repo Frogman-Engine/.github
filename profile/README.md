@@ -3,4 +3,7 @@
   
 ### UnknownStryker Interactive Technologies™ is an open-source GitHub organization and an interactive digital entertainment contents researcher & developer.
 
-https://github.com/user-attachments/assets/9f23611a-f015-43ff-b62f-6e7fdde3fba5
+
+
+https://github.com/user-attachments/assets/e037c1ec-dd95-403f-827a-920e8708739e
+
